@@ -17,11 +17,13 @@
   },
   "homepage": "https://github.com/va602aa-2019/vc2008APIs#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "eslint-config-airbnb": "^17.1.0",
     "express": "^4.17.0",
     "sqlite3": "^4.0.8"
   },
   "devDependencies": {
+    "apidoc": "^0.17.7",
     "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.17.2"
   }
